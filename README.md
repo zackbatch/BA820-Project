@@ -6,7 +6,7 @@ The primary objective to do a sports-based project, is to explore and implement 
 
 Dataset and Data Source: 
 
-Kaggle - College Basketball: Dataset Shape - (61062 rows × 65 columns) Click here
+Kaggle - College Basketball: Dataset Shape - (61062 rows × 65 columns)
 
 Proposed Methodologies: 
 
