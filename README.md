@@ -11,7 +11,9 @@ Kaggle - College Basketball: Dataset Shape - (61062 rows × 65 columns)
 Proposed Methodologies: 
 
 K-Means Clustering: We'll use k-means clustering with an elbow plot to determine the optimal number of clusters. Players in the NCAA Basketball dataset will be grouped based on their proximity to centroids, which are recalculated iteratively until stable or until a set number of iterations is reached. This approach will help categorize players with similar attributes.
+
 t-SNE Dimensionality Reduction: To handle the diverse and potentially non-linear relationships in our dataset, we'll apply t-SNE for dimensionality reduction. This technique will help us identify significant variables by projecting data points to a lower-dimensional space, maintaining the proximity of similar points and aiding in the effective grouping of players.
+
 Principal Component Analysis (PCA): We will use PCA for further dimensionality reduction, focusing on attributes that define player types, like shooting efficiency. This method will identify the most significant attributes in explaining variance, allowing us to create a model that clusters players based on their key abilities.
 
 Business Relevance:
